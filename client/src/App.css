@@ -1,0 +1,8 @@
+#Form{
+    justify-content: center;
+    display: flex;
+    margin-top: 10vh;
+}
+#btn{
+    width: 250px    ;
+}

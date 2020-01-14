@@ -1,0 +1,27 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.2.4",
+    "create-react-app": "^3.3.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.3.0",
+    "getmac": "^5.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "machine-id": "^1.0.0",
+    "mongoose": "^5.8.3",
+    "node-machine-id": "^1.1.12",
+    "nodemon": "^2.0.1",
+    "socket.io": "^2.3.0"
+  }
+}
