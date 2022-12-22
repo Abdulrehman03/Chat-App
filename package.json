@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.3.0",
     "getmac": "^5.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "machine-id": "^1.0.0",
     "mongoose": "^5.8.3",
     "node-machine-id": "^1.1.12",
